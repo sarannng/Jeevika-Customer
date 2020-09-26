@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039174728784",
+    "firebase_url": "https://jeevika-customer.firebaseio.com",
+    "project_id": "jeevika-customer",
+    "storage_bucket": "jeevika-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039174728784:android:3dbe41f2e2c35a14c72555",
+        "android_client_info": {
+          "package_name": "com.example.prakrati_datacollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039174728784-sv7thpnmksqka79amffqllrrt6l7lkme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbm-BMhp5yQ4fUEVkC_Yt4id0qVjpykqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039174728784-sv7thpnmksqka79amffqllrrt6l7lkme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
